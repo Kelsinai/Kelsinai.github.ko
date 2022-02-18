@@ -1,3 +1,3 @@
 # Deployed Link
 
-https://Kelsinai.github.ko/
+https://kelsinai.github.io/Kelsinai.github.ko/
